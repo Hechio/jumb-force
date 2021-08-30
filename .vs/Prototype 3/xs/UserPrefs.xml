@@ -1,16 +1,25 @@
 ﻿<Properties StartupConfiguration="{F54D4F09-CE3B-6305-6007-C14992BF309F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 3/Scripts/RepeatBackgroundX.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="39" Column="37" />
-      <File FileName="Assets/Scripts/MoveLeft.cs" Line="25" Column="33" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="53" Column="55" />
+      <File FileName="Assets/Scripts/MoveLeft.cs" Line="15" Column="1" />
       <File FileName="Assets/Scripts/SpawnManager.cs" />
       <File FileName="Assets/Scripts/RepeatBackground.cs" />
+      <File FileName="Assets/Challenge 3/Scripts/PlayerControllerX.cs" Line="39" Column="78" />
+      <File FileName="Assets/Challenge 3/Scripts/MoveLeftX.cs" Line="24" Column="10" />
+      <File FileName="Assets/Challenge 3/Scripts/SpawnManagerX.cs" Line="24" Column="21" />
+      <File FileName="Assets/Challenge 3/Scripts/RepeatBackgroundX.cs" Line="19" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Prototype 3" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 3" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="RepeatBackgroundX.cs" selected="True" />
+                </Node>
+              </Node>
               <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
@@ -20,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="120493bc-19d2-470a-b8ce-8f74ca614786" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9ade2026-5631-4540-8fe8-bf5d0832e2d9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
